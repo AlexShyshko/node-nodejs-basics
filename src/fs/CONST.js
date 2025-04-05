@@ -17,6 +17,9 @@ const FILES = {
 	REMOVE_FILE: {
 		NAME: 'fileToRemove.txt',
 	},
+	READ_FILE: {
+		NAME: 'fileToRead.txt',
+	},
 };
 
 // error content
