@@ -1,6 +1,7 @@
 // folder names
 const FOLDER_NAMES = {
 	EXISTENT_FILES_FOLDER_NAME: 'files',
+	COPIED_FILES_FOLDER_NAME: 'files_copy',
 };
 
 // files content
