@@ -14,6 +14,9 @@ const FILES = {
 		NAME: 'wrongFilename.txt',
 		NEW_NAME: 'properFilename.md',
 	},
+	REMOVE_FILE: {
+		NAME: 'fileToRemove.txt',
+	},
 };
 
 // error content
