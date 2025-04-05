@@ -10,6 +10,10 @@ const FILES = {
 		NAME: 'fresh.txt',
 		CONTENT: 'I am fresh and young',
 	},
+	WRONG_FILE: {
+		NAME: 'wrongFilename.txt',
+		NEW_NAME: 'properFilename.md',
+	},
 };
 
 // error content
