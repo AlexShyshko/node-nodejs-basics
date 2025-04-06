@@ -1,6 +1,6 @@
 import { access } from 'fs/promises';
 
-async function CHECK_EXISTENSE(fileOrDirectoryPath, yyy, ooo) {
+async function CHECK_EXISTENSE(fileOrDirectoryPath) {
 
 	const DOES_EXIST = await access(fileOrDirectoryPath)
 		.then(() => {
